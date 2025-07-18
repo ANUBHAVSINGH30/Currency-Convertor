@@ -15,9 +15,9 @@ A clean, simple, and responsive web application that allows users to get real-ti
 🛠️ Technologies Used
 APIs:
 
-Frankfurter API for exchange rate data.
+1. Frankfurter API for exchange rate data.
 
-FlagsAPI for displaying country flags.
+2. FlagsAPI for displaying country flags.
 
 
 
